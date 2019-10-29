@@ -17,7 +17,7 @@
     "express-session": "^1.15.5",
     "md5-node": "^1.0.1",
     "mongodb": "^2.2.31",
-    "mongoose": "^5.5.11",
+    "mongoose": "^5.7.5",
     "multiparty": "^4.1.3"
   }
 }
